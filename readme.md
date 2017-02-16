@@ -1,5 +1,15 @@
 # Sinatra Walkthrough
 
+## Branches
+
+There is one branch for every re-run of the exercise I did:
+
+- master
+- finatra-tut2 (following the youtube tutorial)
+- manuel1	(first time I tried, all on my own)
+- finatra-manuel2 (second time on my own )
+- finatra-manuel3 (third and last time on my own)
+
 ## What is Sinatra?
 
 Sinatra is the no-frills version of Rails. Whereas Rails comes out-of-the-box with an abundance of shortcuts and tools, Sinatra comes with very few.
