@@ -1,6 +1,9 @@
+[ga-wdi-lessons/sinatra-walkthrough
+](https://github.com/ga-wdi-lessons/sinatra-walkthrough)
+
 # Sinatra Walkthrough
 
-## Branches
+#### Branches
 
 There is one branch for every re-run of the exercise I did:
 
