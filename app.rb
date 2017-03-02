@@ -2,5 +2,6 @@ require 'sinatra'
 require 'sinatra/reloader'
 
 get "/" do
-	"dai che va"
+	@title = "index"
+	erb :index
 end
