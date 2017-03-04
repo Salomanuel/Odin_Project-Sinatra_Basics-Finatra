@@ -2,11 +2,14 @@
 <html>
 <head>
 	<title><%= @title %></title>
-	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="manuelss.css" />
 </head>
 <body>
-	<h1><%= @title %></h1>
-	<%= yield %>
-	<p>Finatra</p>
+	<div id='topBar'>	<h1><%= @title %></h1> </div>
+	<div id='containerTable'><%= yield %></div>
+	<div id='bottomBar'>
+		<a href='https://github.com/ga-wdi-exercises/finatra/commits/solution'> Finatra </a> built by <a href='https://github.com/Salomanuel'>
+					Manuel Salomone</a>
+	</div>
 </body>
 </html>
